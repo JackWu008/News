@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#35464e</color>
+    <color name="colorPrimaryDark">#35464e</color>
+    <color name="colorAccent">#212a2f</color>
+    <color name="colorRefreshA">#616161</color>
+    <color name="colorRefreshB">#212a2f</color>
+    <color name="colorGray">#898989</color>
+    <color name="colorGeneralBackground">#898989</color>
+    <color name="colorViewBackground">#35464e</color>
+    <color name="colorGeneralText">#e6e5e5</color>
+    <color name="colorShareBackground">#35464e</color>
+</resources>

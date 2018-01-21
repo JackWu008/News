@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="menu_navigation_theme">夜间</string>
+    <string name="menu_navigation_about">关于</string>
+    <string name="menu_navigation_setting">设置</string>
+    <string name="menu_navigation_cache">清除图片和网页访问缓存</string>
+    <string name="menu_web_share">分享</string>
+    <string name="menu_main_channel">编辑频道</string>
+    <string name="bottom_dialog_tv">分享到…</string>
+    <string name="activity_setting_tv_cache">清除缓存</string>
+    <string name="item_footview_tv">-----到底了-----</string>
+    <string name="menu_web_copy">复制链接</string>
+    <string name="menu_web_browser">用浏览器打开</string>
+    <string name="fragment_about_v">版本:V1.0</string>
+    <string name="fragment_about_tv_a">作者</string>
+    <string name="fragment_about_tv_b">007</string>
+    <string name="fragment_setting_title">设置</string>
+    <integer-array name="refresh_colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorRefreshA</item>
+        <item>@color/colorRefreshB</item>
+    </integer-array>
+    <array name="adBlockUrl">
+        <item>ubmcmm.baidustatic.com</item>
+        <item>cpro2.baidustatic.com</item>
+        <item>cpro.baidustatic.com</item>
+        <item>s.lianmeng.360.cn</item>
+        <item>nsclick.baidu.com</item>
+        <item>pos.baidu.com</item>
+        <item>cbjs.baidu.com</item>
+        <item>cpro.baidu.com</item>
+        <item>images.sohu.com/cs/jsfile/js/c.js</item>
+        <item>union.sogou.com/</item>
+        <item>sogou.com/</item>
+        <item>a.baidu.com</item>
+        <item>c.baidu.com</item>
+    </array>
+</resources>

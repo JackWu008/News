@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:icon="@drawable/ic_navig_theme"
+        android:id="@+id/menu_navigation_theme"
+        android:title="@string/menu_navigation_theme" />
+
+    <item
+        android:icon="@drawable/ic_navig_settings"
+        android:id="@+id/menu_navigation_setting"
+        android:title="@string/menu_navigation_setting" />
+    <item
+        android:icon="@drawable/ic_navig_about"
+        android:id="@+id/menu_navigation_about"
+        android:title="@string/menu_navigation_about" />
+</menu>

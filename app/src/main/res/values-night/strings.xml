@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="menu_navigation_theme">白天</string>
+    <string name="menu_navigation_about">关于</string>
+    <string name="menu_navigation_setting">设置</string>
+    <string name="menu_navigation_cache">清除缓存</string>
+    <string name="menu_web_share">分享</string>
+    <string name="menu_main_channel">编辑频道</string>
+    <string name="bottom_dialog_tv">分享到…</string>
+    <string name="activity_setting_tv_cache">清除缓存</string>
+    <integer-array name="refresh_colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorRefreshA</item>
+        <item>@color/colorRefreshB</item>
+    </integer-array>
+</resources>
